@@ -16,3 +16,10 @@ what we do was expad the aray:
 
 and add it to the new array
 */
+
+
+//example with strings:
+const string = "Juan"
+
+console.log(...string)
+//output: J u a n
